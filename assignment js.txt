@@ -1,0 +1,45 @@
+ create a function that takes two numbers as parameters and return their sum
+
+<html>
+<head>
+<title> sum </title>
+</head>
+<body>
+<h1>sum of two numbers using function </h1>
+<script>
+function sumnumbers(num1, num2)
+{
+	return num1+num2;
+}
+let result= sumnumbers(3, 4);
+console.log(result);
+</script>
+</body>
+
+</html>
+
+
+
+
+Type 2  :  sum of two numbers with out function and parameters
+
+
+
+
+
+<html>
+<head>
+<title> sum </title>
+</head>
+<body>
+<h1>sum of two numbers  </h1>
+<script>
+var a= 10;
+var b= 20;
+var c =a+b;
+
+console.log(c);
+</script>
+</body>
+
+</html>
